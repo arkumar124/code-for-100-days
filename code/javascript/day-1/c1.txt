@@ -1,0 +1,7 @@
+For the day 1, python folks can take below challenges
+
+// Beginner Level
+
+1. Write a program to print a string in reverse order without using any string functions.
+2. Write a program to calculate factorial without recursion.
+3. Write a recursive program to calculate factorial of a given number.
